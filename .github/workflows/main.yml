@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-\jobs:
+jobs:
   checkout-and-print-tree:
     runs-on: ubuntu-latest
     steps:
