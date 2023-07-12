@@ -1,3 +1,5 @@
+[![.github/workflows/main.yml](https://github.com/Sterlyadkin/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/Sterlyadkin/kittygram_final/actions/workflows/main.yml)
+
 ## Описание проекта
 
 Сайт с возможностью публикации фотографий котов и их достижений.
